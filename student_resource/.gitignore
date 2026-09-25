@@ -27,3 +27,6 @@ Thumbs.db
 
 # dataset
 **.tsv
+
+# Large zip archives (dataset bundles)
+*.zip
